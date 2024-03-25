@@ -1,3 +1,4 @@
-Olá!! \n
-Bem-vindo ao meu perfil, \n
+Olá, bem-vindo ao meu perfil!!
+
+
 Meu nome é Gabriela Fonseca, estou aprendendo programação e pretendo me tornar uma desenvolvedora Full-stack!
